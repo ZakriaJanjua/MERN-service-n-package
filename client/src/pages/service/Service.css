@@ -1,0 +1,17 @@
+.form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.heading {
+    text-align: center;
+}
+
+.form-element {
+    margin-top: 10%;
+}
+
+#name, #description, #price {
+    width: 100%;
+}
